@@ -20,14 +20,14 @@ namespace vMenuClient
 
         private readonly List<string> speeds = new()
         {
-            "Very Slow",
-            "Slow",
-            "Normal",
-            "Fast",
-            "Very Fast",
-            "Extremely Fast",
-            "Extremely Fast v2.0",
-            "Max Speed"
+            "ENO Super Slow",
+            "ENO Slow",
+            "ENO Norm",
+            "ENO Fast",
+            "ENO Super Fast",
+            "ENO Demigod",
+            "ENO God",
+            "ENO Lightspeed"
         };
 
         public NoClip()
